@@ -2,7 +2,6 @@
 Para você que caiu de paraquedas nesse projeto<br />
 este projeto foi feito por mim [Kaique](https://www.linkedin.com/in/kaique-de-godoy-silva-31b48118b)<br />
 com o objetivo de aprender e treinar um pouco ReactJS <br />
-(não está concluido mas planejo fazer algumas melhorias)
 
 ## Layout
 Eu peguei um layout pronto <br />
@@ -12,6 +11,6 @@ desenhado por [Vitor](https://www.linkedin.com/in/vitor-fernandes-góes-74586977
 e o transformei em um site utilizando react<br /> 
 clicke no link abaixo e de uma conferida nele de forma online.
 
-<a href="https://bit.ly/3c9psz9"> https://bit.ly/3c9psz9 </a>
+<a href="https://react-js-form-cross-fit-do-bairro-vnk1.vercel.app"> Cross Fit do Bairro </a>
 
 # !!!lembrando que ele é apenas visual então não insira informações veridicas!!!
